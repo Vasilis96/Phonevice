@@ -1,5 +1,7 @@
 # [Phonevice](https://phonevice.com/index.html)
 
+### Co-author: orestespap
+
 Phonevice is the first fully automated smartphone recommendation engine on the internet.
 
 ## "How does your algorithm work?"
